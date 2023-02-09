@@ -4,11 +4,14 @@
     "slug": "stedi-app",
     "extra": {
       "eas": {
-        "projectId": "797110c2-7c41-46ce-9daa-a7ef0c66c3e4"
+        "projectId": "d3db3841-1894-45f6-ac7c-9ecd87f47046"
       }
     },
     "ios": {
-      "bundleIdentifier": "com.scmurdock.stediapp"
+      "bundleIdentifier": "com.haein.stediapp"
+    },
+    "android": {
+      "package": "com.haein.stediapp"
     }
   }
 }
